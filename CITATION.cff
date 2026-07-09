@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this catalog, please cite it as below, and also cite the original portal(s) and underlying publication(s) you actually drew data from."
+title: "GWAS / PheWAS / Biobank Portal Catalog"
+type: dataset
+date-released: "2026-07-09"
+url: "https://github.com/bahlolab/GWAS-PheWAS-Biobank-Portal"
+repository-code: "https://github.com/bahlolab/GWAS-PheWAS-Biobank-Portal"
+license: "MIT"
+keywords:
+  - GWAS
+  - PheWAS
+  - biobank
+  - genomics
+  - population genetics
+  - variant browser
+authors:
+  - name: "GWAS/PheWAS/Biobank Portal Catalog Contributors"

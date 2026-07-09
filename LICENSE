@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 The Walter and Eliza Hall Institute of Medical Research
+Copyright (c) 2026 GWAS/PheWAS/Biobank Portal Catalog Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+Note: this license covers the code (scripts and workflows) in this repository.
+The curated metadata in data/portals.csv and data/portals.json is separately
+released under CC BY 4.0 (see README.md § License). This repository does not
+redistribute genetic data from any cataloged portal; each portal retains its
+own license and access terms.
