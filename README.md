@@ -1,55 +1,120 @@
-# 🧬 GWAS / PheWAS / Biobank Portal Catalog
+# 🌍🧬 GWAS / PheWAS / Biobank Portal Catalog
 
-A curated collection of publicly available **GWAS**, **PheWAS**, and **biobank-derived web portals** for genetics research.
+**Publicly available GWAS, PheWAS, and biobank-derived web portals** for genetic association studies, variant exploration, and phenotype discovery.
 
 ---
 
-## 🌍 Public GWAS Resources
+## 📚 Contents
 
-### GWAS Catalog
+- Public GWAS resources
+- Biobank-derived PheWAS web portals
+- Integrated resources
 
-🔗 **Website:** <https://www.ebi.ac.uk/gwas>
+---
 
-The NHGRI-EBI GWAS Catalog is the largest public repository of published genome-wide association studies.
+## 1. GWAS Catalog
 
-![GWAS Catalog](images/gwas_catalog.png)
+🔗 **Website:** https://www.ebi.ac.uk/gwas
 
+The NHGRI-EBI GWAS Catalog is the largest public repository of published human genome-wide association studies.
 
-# 🧬 GWAS / PheWAS / Biobank Portal Catalog
+![](images/gwas_catalog.png)
 
-Publicly available **GWAS**, **PheWAS**, and **biobank-derived web portals**
+---
 
-GWAS Catalog: [https://www.ebi.ac.uk/gwas](https://www.ebi.ac.uk/gwas)
+## 2. AstraZeneca PheWAS Portal
 
-<a href="https://www.ebi.ac.uk/gwas" target="_blank" rel="noopener noreferrer">Public GWAS Catalog: https://www.ebi.ac.uk/gwas</a>
-![](data/GWAS.png)
+🔗 **Website:** https://azphewas.com
 
-AstraZeneca PheWAS Portal: [https://azphewas.com](https://azphewas.com)
+The AstraZeneca PheWAS Portal is a public repository of gene-phenotype associations. These data were generated using sequencing and phenotype data from the UK Biobank.
+
 ![](data/azphewas.png)
 
-All by All – All of Us: [https://allbyall.researchallofus.org](https://allbyall.researchallofus.org)
+---
+
+## 3. All by All
+
+🔗 **Website:** https://allbyall.researchallofus.org
+
+The All by All results map known and novel associations between genotypes and phenotypes using data contributed by All of Us Research Program participants.
+
 ![](data/allbyall.png)
 
-FinnGen: [https://r13.finngen.fi](https://r13.finngen.fi)
+---
+
+## 4. FinnGen
+
+🔗 **Website:** https://r13.finngen.fi
+
+The genetic association results on this website are from the FinnGen study. These results are from 2,466 binary endpoints and 3 quantitative endpoints (HEIGHT_IRN, WEIGHT_IRN, BMI_IRN) from data freeze 13 (May 2025), consisting of 500,186 individuals.
+
 ![](data/finngen.png)
 
-Million Veteran Program (MVP): [https://mvp-ukbb.finngen.fi](https://mvp-ukbb.finngen.fi)
+---
+
+## 5. Million Veteran Program (MVP)
+
+🔗 **Website:** https://mvp-ukbb.finngen.fi
+
+The genetic association results on this website represent a multi-way meta analysis. 
+This current release contains 450 aligned disease endpoints/phecodes and lab measurements from
+VA Million Veteran Program (3 analyses: n EUR=449,042; n AFR=121,177; n AMR=59,048)
+FinnGen freeze 13 (n=500,186)
+UKBB (pan-UKBB European subset n=420,531)
+
 ![](data/mvp.png)
 
-China Kadoorie Biobank: [https://pheweb.ckbiobank.org](https://pheweb.ckbiobank.org)
+---
+
+## 6. China Kadoorie Biobank
+
+🔗 **Website:** https://pheweb.ckbiobank.org
+This website releases genome-wide association study (GWAS) summary statistics of the China Kadoorie Biobank (CKB). CKB is a prospective population-based biobank which recruited approximately 512,000 participants during 2004-2008, in 10 geographically diverse regions of China. 
+
 ![](data/ckbiobank.png)
 
-BioBank Japan PheWeb: [https://pheweb.jp](https://pheweb.jp)
+---
+
+## 7. BioBank Japan PheWeb
+
+🔗 **Website:** https://pheweb.jp
+
+This website releases genome-wide association study (GWAS) summary statistics of the BioBank Japan Project (BBJ). The BBJ is a prospective genome biobank managed by the Institute of Medical Science, the University of Tokyo. It has collaboratively collected DNA and serum samples from 12 medical institutions across Japan. The project has recruited approximately 260,000 participants, mainly of Japanese ancestry. All study participants were diagnosed with one or more of 51 target diseases.
+
 ![](data/Japan.png)
 
-Genebass: [https://app.genebass.org](https://app.genebass.org)
+---
+
+## 8. Genebass
+
+🔗 **Website:** https://app.genebass.org
+
+Gene-level rare variant association results from UK Biobank exome sequencing data.
+
 ![](data/genebass.png)
 
-POLMM UKB: [https://polmm.leelabsg.org](https://polmm.leelabsg.org)
+---
+
+## 9. POLMM UK Biobank
+
+🔗 **Website:** https://polmm.leelabsg.org
+
+Phenome-wide association studies of 258 ordinal categorical phenotypes on UK Biobank.
+
 ![](data/polmm.png)
 
-Open Targets Platform: [https://platform.opentargets.org](https://platform.opentargets.org)
+---
+
+## 10. Open Targets Genetics
+
+🔗 **Website:** https://platform.opentargets.org
+
+The Open Targets Platform is a comprehensive tool that supports systematic identification and prioritisation of potential therapeutic drug targets. By integrating publicly available datasets including data generated by the Open Targets consortium, the Platform builds and scores target-disease associations to assist in drug target identification and prioritisation. It also integrates relevant annotation information about targets, diseases or phenotypes, variants, GWAS studies and drugs, as well as their most relevant relationships.
+
 ![](data/opentarget.png)
 
+---
 
+## ⭐ Citation
 
+For citation information, please refer to the official website or documentation of each resource.
