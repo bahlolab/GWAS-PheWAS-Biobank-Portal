@@ -1,4 +1,5 @@
 # 🧬 GWAS / PheWAS / Biobank Portal Catalog
+![](assets/slides/slide-01.jpg)
 
 [![Check Links](https://github.com/bahlolab/GWAS-PheWAS-Biobank-Portal/actions/workflows/check-links.yml/badge.svg)](https://github.com/bahlolab/GWAS-PheWAS-Biobank-Portal/actions/workflows/check-links.yml)
 [![Update Metadata](https://github.com/bahlolab/GWAS-PheWAS-Biobank-Portal/actions/workflows/update-metadata.yml/badge.svg)](https://github.com/bahlolab/GWAS-PheWAS-Biobank-Portal/actions/workflows/update-metadata.yml)
