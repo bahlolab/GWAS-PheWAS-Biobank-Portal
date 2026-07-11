@@ -18,7 +18,7 @@
 
 The NHGRI-EBI GWAS Catalog is the largest public repository of published human genome-wide association studies.
 
-![](images/gwas_catalog.png)
+![](data/GWAS.png)
 
 ---
 
