@@ -3,6 +3,8 @@
 Publicly available **GWAS**, **PheWAS**, and **biobank-derived web portals**
 
 GWAS Catalog: [https://www.ebi.ac.uk/gwas](https://www.ebi.ac.uk/gwas)
+
+<a href="https://www.ebi.ac.uk/gwas" target="_blank" rel="noopener noreferrer">Public GWAS Catalog: https://www.ebi.ac.uk/gwas</a>
 ![](data/GWAS.png)
 
 AstraZeneca PheWAS Portal: [https://azphewas.com](https://azphewas.com)
