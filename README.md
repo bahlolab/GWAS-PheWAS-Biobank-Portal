@@ -1,5 +1,22 @@
 # 🧬 GWAS / PheWAS / Biobank Portal Catalog
 
+A curated collection of publicly available **GWAS**, **PheWAS**, and **biobank-derived web portals** for genetics research.
+
+---
+
+## 🌍 Public GWAS Resources
+
+### GWAS Catalog
+
+🔗 **Website:** <https://www.ebi.ac.uk/gwas>
+
+The NHGRI-EBI GWAS Catalog is the largest public repository of published genome-wide association studies.
+
+![GWAS Catalog](images/gwas_catalog.png)
+
+
+# 🧬 GWAS / PheWAS / Biobank Portal Catalog
+
 Publicly available **GWAS**, **PheWAS**, and **biobank-derived web portals**
 
 GWAS Catalog: [https://www.ebi.ac.uk/gwas](https://www.ebi.ac.uk/gwas)
