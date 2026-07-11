@@ -1,5 +1,11 @@
-# 🧬 GWAS / PheWAS / Biobank Portal Catalog
+<img width="222" height="34" alt="image" src="https://github.com/user-attachments/assets/fe806b01-ee09-41fd-a30c-c32d4707768b" /># 🧬 GWAS / PheWAS / Biobank Portal Catalog
+
+Publicly available **GWAS**, **PheWAS**, and **biobank-derived web portals**
+
+GWAS Catalog: [https://www.ebi.ac.uk/gwas](https://www.ebi.ac.uk/gwas)
+
 ![](data/GWAS.png)
+
 
 [![Check Links](https://github.com/bahlolab/GWAS-PheWAS-Biobank-Portal/actions/workflows/check-links.yml/badge.svg)](https://github.com/bahlolab/GWAS-PheWAS-Biobank-Portal/actions/workflows/check-links.yml)
 [![Update Metadata](https://github.com/bahlolab/GWAS-PheWAS-Biobank-Portal/actions/workflows/update-metadata.yml/badge.svg)](https://github.com/bahlolab/GWAS-PheWAS-Biobank-Portal/actions/workflows/update-metadata.yml)
@@ -7,7 +13,6 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-A community-maintained, structured index of publicly available **GWAS**, **PheWAS**, and **biobank-derived web portals** — built so that geneticists, statistical geneticists, and bioinformaticians can quickly find the right tool for a gene, variant, phenotype, or region query without re-discovering the same resources from scratch every time.
 
 > **Scope: public access only.** Every entry in this catalog can be queried or its summary statistics downloaded **without a formal data-access application** — free registration for an API token or Researcher Workbench (e.g., FinnGen, OpenGWAS, All of Us) is fine, but resources whose *only* access route is a controlled-access committee (e.g., dbGaP full individual-level data, UK Biobank RAP, most national biobanks without a public browser) are intentionally excluded. See [`docs/SCOPE.md`](docs/SCOPE.md) for the exact inclusion rule and a list of notable biobanks left out for this reason.
 
