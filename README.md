@@ -69,6 +69,7 @@ UKBB (pan-UKBB European subset n=420,531)
 ## 6. China Kadoorie Biobank
 
 🔗 **Website:** https://pheweb.ckbiobank.org
+
 This website releases genome-wide association study (GWAS) summary statistics of the China Kadoorie Biobank (CKB). CKB is a prospective population-based biobank which recruited approximately 512,000 participants during 2004-2008, in 10 geographically diverse regions of China. 
 
 ![](data/ckbiobank.png)
